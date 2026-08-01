@@ -1,6 +1,6 @@
 # 🏢 Enterprise Active Directory Lab
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository documents the complete deployment, configuration, and administration of an **Enterprise Active Directory Lab** built using **Windows Server 2022**, **Windows 11**, and **VMware Workstation**.
 
@@ -10,7 +10,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 ---
 
-# 📊 Project Statistics
+#  Project Statistics
 
 * 📁 **8 Project Modules**
 * 📄 **40+ Documentation Files**
@@ -24,7 +24,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 * Build an Enterprise Active Directory environment from scratch.
 * Configure centralized authentication and authorization.
@@ -36,7 +36,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 * Build a strong foundation for Active Directory Security and Attack & Defense.
 
 
-# 🏗️ Lab Environment
+#  Lab Environment
 
 | Component         | Details                         |
 | ----------------- | ------------------------------- |
@@ -59,25 +59,80 @@ The repository includes detailed documentation, architecture diagrams, practical
 ---
 
 # 📂 Project Structure
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8f5d5149-11a6-4efd-b340-e89ffad2e86d" />
 
 ```text
 Enterprise-Active-Directory-Lab
-
-├── 01-Lab-Setup
-├── 02-Network-Configuration
+│
+├── 01-Project-Overview
+│   ├── Lab-Architecture.md
+│   ├── Lab-Requirements.md
+│   ├── Learning-Roadmap.md
+│   ├── Project-Goal.md
+│
+├── 02-Lab-Setup
+│   ├── Screenshots
+│   ├── Windows-11-Screenshots
+│   ├── VMware-Installation.md
+│   ├── Virtual-Networking.md
+│   ├── Windows-Server-2022-Installation.md
+│   ├── Windows-11-Installation.md
+│   └── Static-IP-Configuration.md
+│
 ├── 03-Active-Directory
-├── 04-Users-and-Groups
-├── 05-File-Server
-├── 06-Group-Policy
-├── 07-Client-Domain-Join
-├── 08-Troubleshooting
-├── 09-Screenshots
-├── 10-Architecture
-├── 11-Commands
+│   ├── Screenshots
+│   ├── Active-Directory-Basics.md
+│   ├── ADDS-Installation.md
+│   ├── DNS-Configuration.md
+│   ├── Domain-Controller.md
+│   ├── Organizational-Units.md
+│   ├── Users.md
+│   ├── Groups.md
+│   └── Client-Domain-Join.md
+│
+├── 04-File-Server
+│   ├── Screenshots
+│   ├── Shared-Folders.md
+│   ├── NTFS-Permissions.md
+│   ├── Share-Permissions.md
+│   └── Access-Based-Enumeration.md
+│
+├── 05-Group-Policy
+│   ├── Screenshots
+│   ├── GPO-Basics.md
+│   ├── Password-Policy.md
+│   ├── Account-Lockout-Policy.md
+│   ├── Desktop-Wallpaper-Policy.md
+│   ├── Control-Panel-Restriction.md
+│   ├── USB-Restriction.md
+│   ├── Command-Prompt-Restriction.md
+│   ├── Login-Banner.md
+│   ├── GPO-Processing.md
+│   ├── Block-Inheritance.md
+│   ├── Enforced.md
+│   └── Loopback-Processing.md
+│
+├── 06-Troubleshooting
+│   ├── Installation-Issues.md
+│   ├── Network-Issues.md
+│   ├── DNS-Issues.md
+│   ├── Domain-Join-Issues.md
+│   ├── Login-Issues.md
+│   ├── GPO-Issues.md
+│   ├── File-Server-Issues.md
+│   └── Common-Errors.md
+│
+├── 07-Commands
+│   ├── Active-Directory-Commands.md
+│   ├── Networking-Commands.md
+│   ├── File-Server-Commands.md
+│   ├── Group-Policy-Commands.md
+│   ├── PowerShell-Commands.md
+│   └── Troubleshooting-Commands.md
 │
 ├── README.md
-├── Project-Goal.md
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
 
 ---
@@ -208,30 +263,6 @@ These screenshots provide a complete visual walkthrough of the entire lab.
 * Group Policy Management
 * Windows Troubleshooting
 * Technical Documentation
-
----
-
-# 🚀 Future Enhancements
-
-The next phase of this project will focus on **Active Directory Attack & Defense**, including:
-
-* Active Directory Enumeration
-* BloodHound
-* SharpHound
-* SMB Enumeration
-* Password Spraying
-* Kerberoasting
-* AS-REP Roasting
-* Pass-the-Hash
-* NTLM Attacks
-* Mimikatz
-* DCSync
-* Golden Ticket
-* Silver Ticket
-* Privilege Escalation
-* Lateral Movement
-* Active Directory Hardening
-* Detection & Defense
 
 ---
 
