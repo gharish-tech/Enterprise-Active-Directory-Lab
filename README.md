@@ -12,7 +12,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 #  Project Statistics
 
-* 📁 **8 Project Modules**
+* 📁 **7 Project Modules**
 * 📄 **40+ Documentation Files**
 * 📸 **124 Screenshots**
 * 🖥️ **2 Virtual Machines**
