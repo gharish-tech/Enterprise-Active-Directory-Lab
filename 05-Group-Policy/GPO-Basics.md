@@ -4,15 +4,11 @@
 
 Understand what Group Policy is, why organizations use it, and how it centrally manages Windows computers and users in an Active Directory environment.
 
----
-
 ## What is Group Policy?
 
 Group Policy (GPO) is a Windows feature that allows administrators to centrally configure and enforce settings for users and computers in an Active Directory domain.
 
 Instead of configuring each computer manually, administrators create a Group Policy once and apply it to multiple users or computers.
-
----
 
 ## Why is Group Policy Used?
 
@@ -27,8 +23,6 @@ Group Policy helps by:
 - Maintaining consistency across the organization
 - Reducing administrative effort
 - Improving security and compliance
-
----
 
 ## What Can Group Policy Configure?
 
@@ -45,8 +39,6 @@ Examples include:
 - Software Installation
 - Security Settings
 
----
-
 ## User Configuration vs Computer Configuration
 
 ### User Configuration
@@ -61,8 +53,6 @@ Examples:
 
 The policy follows the user regardless of which domain-joined computer they log into.
 
----
-
 ### Computer Configuration
 
 Applies settings to computer objects.
@@ -75,16 +65,12 @@ Examples:
 
 The policy follows the computer regardless of which user logs in.
 
----
-
 ## How Does Group Policy Work?
 
 1. Administrator creates a GPO.
 2. The GPO is linked to a Site, Domain, or Organizational Unit (OU).
 3. During startup and user logon, Windows downloads the applicable policies from the Domain Controller.
 4. Windows applies the settings automatically.
-
----
 
 ## GPO Processing Order (LSDOU)
 
@@ -97,8 +83,6 @@ Windows processes Group Policies in the following order:
 
 If multiple GPOs configure the same setting, the last applied policy normally takes precedence.
 
----
-
 ## Important Concepts Learned
 
 - User Configuration
@@ -108,8 +92,6 @@ If multiple GPOs configure the same setting, the last applied policy normally ta
 - Enforced
 - Loopback Processing
 
----
-
 ## Benefits of Group Policy
 
 - Centralized management
@@ -118,8 +100,6 @@ If multiple GPOs configure the same setting, the last applied policy normally ta
 - Faster administration
 - Easier troubleshooting
 - Better compliance with organizational policies
-
----
 
 ## Conclusion
 

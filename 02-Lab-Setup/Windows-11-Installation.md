@@ -4,7 +4,6 @@
 
 Install Windows 11 Professional to use as the client machine in the Active Directory lab.
 
----
 
 ## Why Windows 11 Pro?
 
@@ -17,7 +16,6 @@ Windows 11 Pro supports enterprise features such as:
 
 Windows 11 Home cannot join an Active Directory domain.
 
----
 
 ## Installation Steps
 
@@ -36,7 +34,6 @@ Windows 11 Home cannot join an Active Directory domain.
 9. Clicked **Domain join instead** to create a local administrator account.
 10. Logged in using the local administrator account.
 
----
 
 ## Why did we create a Local Administrator account?
 
@@ -48,8 +45,6 @@ A local administrator account is required to:
 - Rename the computer
 - Join the computer to the domain
 - Perform administrative tasks before domain membership
-
----
 
 ## Result
 

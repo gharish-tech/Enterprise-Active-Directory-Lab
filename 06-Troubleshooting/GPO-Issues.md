@@ -1,8 +1,14 @@
-## Troubleshooting
+## GPO-Issues
 
-- Verified DNS resolution.
-- Verified GPO link.
-- Ran gpupdate /force.
-- Checked Share permissions.
-- Checked NTFS permissions.
-- Verified client could access the shared folder.
+Wallpaper not applying
+Wrong UNC path
+Missing Share Permission
+Missing NTFS Permission
+USB restriction not working
+CMD restriction not working
+CLIENT01 inside Computers container
+GPO linked to wrong OU
+Forgot gpupdate /force
+Restart required
+Security Filtering issue
+
