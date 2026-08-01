@@ -21,3 +21,4 @@ Unlocked the account from Active Directory Users and Computers.
 ## Result
 
 The Account Lockout Policy successfully protected the domain account from repeated failed logon attempts.
+
