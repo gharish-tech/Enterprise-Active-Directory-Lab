@@ -51,7 +51,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 
 
-# 🧱 Lab Architecture
+#  Lab Architecture
 
 <img width="1197" height="1314" alt="image" src="https://github.com/user-attachments/assets/eb529bdf-0f7e-44a4-bfb0-7886f5befaf8" />
 
@@ -137,7 +137,7 @@ Enterprise-Active-Directory-Lab
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Windows Server 2022
 * Windows 11
@@ -154,7 +154,7 @@ Enterprise-Active-Directory-Lab
 
 ---
 
-# 📖 Topics Covered
+#  Topics Covered
 
 ## Active Directory
 
@@ -251,7 +251,7 @@ These screenshots provide a complete visual walkthrough of the entire lab.
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 * Windows Server Administration
 * Active Directory Administration
@@ -266,7 +266,7 @@ These screenshots provide a complete visual walkthrough of the entire lab.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Harish**
 
@@ -274,6 +274,6 @@ Cybersecurity enthusiast focused on Windows Infrastructure, Active Directory, Ne
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
