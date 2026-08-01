@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# VMware temporary files
+*.lck
+*.vmem
+*.vmss
+*.nvram
