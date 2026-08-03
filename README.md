@@ -2,11 +2,11 @@
 
 ##  Project Overview
 
-This repository documents the complete deployment, configuration, and administration of an **Enterprise Active Directory Lab** built using **Windows Server 2022**, **Windows 11**, and **VMware Workstation**.
+This repository contains my Enterprise Active Directory Lab project, where I built and managed a complete Windows-based enterprise environment using Windows Server 2022, Windows 11, and VMware Workstation.
 
-The project simulates a real-world enterprise environment where users, computers, groups, file servers, and security policies are centrally managed through **Active Directory Domain Services (AD DS)**.
+The project demonstrates how Active Directory Domain Services (AD DS) is used to centrally manage users, computers, security groups, file sharing, and Group Policies in a real-world enterprise setup.
 
-The repository includes detailed documentation, architecture diagrams, practical configurations, troubleshooting guides, and **124 screenshots** covering every stage of the implementation.
+It also includes step-by-step documentation, network architecture diagrams, configuration guides, troubleshooting notes, and 124 screenshots that document the entire implementation process from start to finish.
 
 ---
 
