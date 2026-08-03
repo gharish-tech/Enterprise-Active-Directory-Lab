@@ -1,4 +1,4 @@
-# 🏢 Enterprise Active Directory Lab
+#  Enterprise Active Directory Lab
 
 ##  Project Overview
 
@@ -12,15 +12,15 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 #  Project Statistics
 
-* 📁 **7 Project Modules**
-* 📄 **40+ Documentation Files**
-* 📸 **124 Screenshots**
-* 🖥️ **2 Virtual Machines**
-* 🌐 **1 Active Directory Domain**
-* 👥 Multiple Users, Groups & OUs
-* 📂 Enterprise File Server
-* 🛡️ Enterprise Group Policy Configuration
-* 🔧 Real-World Troubleshooting Scenarios
+*  **7 Project Modules**
+*  **40+ Documentation Files**
+*  **124 Screenshots**
+*  **2 Virtual Machines**
+*  **1 Active Directory Domain**
+*  Multiple Users, Groups & OUs
+*  Enterprise File Server
+*  Enterprise Group Policy Configuration
+*  Real-World Troubleshooting Scenarios
 
 ---
 
@@ -58,7 +58,7 @@ The repository includes detailed documentation, architecture diagrams, practical
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8f5d5149-11a6-4efd-b340-e89ffad2e86d" />
 
 ```text
@@ -228,7 +228,7 @@ Enterprise-Active-Directory-Lab
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 This repository contains **124 screenshots** documenting every stage of the lab, including:
 
@@ -272,8 +272,3 @@ These screenshots provide a complete visual walkthrough of the entire lab.
 
 Cybersecurity enthusiast focused on Windows Infrastructure, Active Directory, Networking, Enterprise Security, and Offensive Security.
 
----
-
-##  Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
